@@ -52,8 +52,11 @@ This project focuses on document template classification and matching using OCR 
 ## Key Functions
 
 - `extract_text`: Extracts text from images using OCR.
-- `detect_admission_form`: Detects admission forms based on patterns.
-- `detect_insurance_form`: Detects insurance documents based on patterns.
+- `detect_admission_form`: Detects admission form based on patterns.
+- `detect_insurance_form`: Detects insurance form documents based on patterns.
+- `detect_aadhar_card`: Detects Aadhar card documents based on patterns.
+-  `detect_lab_report`: Detects lab report documents based on patterns.
+-   `detect_medication_report`: Detects medication report documents based on patterns.
 - `train_ai_model`: Trains an AI model for document classification.
 - `classify_with_ai`: Classifies documents using the trained AI model.
 - `classify_with_keywords`: Classifies documents using keyword matching.
