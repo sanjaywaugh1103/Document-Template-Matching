@@ -36,7 +36,7 @@ This project focuses on document template classification and matching using OCR 
 - `templates/`: Contains template documents for AI training.
 - `uploaded_documents/`: Place documents for classification here.
 - `classified_documents/`: Classified documents will be organized here.
-  - `unrecognized/`: Unclassified documents will be stored here.
+- `unrecognized/`: Unclassified documents will be stored here.
 - `Document_template_Matchingf.py`: Main script for document classification.
 
 ## Usage
