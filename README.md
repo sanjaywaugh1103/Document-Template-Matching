@@ -41,13 +41,14 @@ This project focuses on document template classification and matching using OCR 
 
 ## Usage
 
-1. Place your template documents in the `templates/` folder.
-2. Place the documents you want to classify in the `uploaded_documents/` folder.
-3. Run the script:
+1.Download the required libraries which is mentioned in requirements.txt
+2. Place your template documents in the `templates/` folder.
+3. Place the documents you want to classify in the `uploaded_documents/` folder.
+4. Run the script:
    ```bash
    python Document_template_Matchingf.py
    ```
-4. Check the `classified_documents/` folder for results.
+5. Check the `classified_documents/` folder for results.
 
 ## Key Functions
 
